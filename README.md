@@ -1,2 +1,2 @@
 # Recipe_app
-An Application that will help you to keep track of what you are into or you are about to do 
+An Application that keep track of your weekly activities as well as your daily and timely activities 
